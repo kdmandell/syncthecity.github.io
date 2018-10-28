@@ -441,7 +441,7 @@ map
 
 
 # save map as html document 
-sav.file <- "/Users/jbjrV/OneDrive/Code for Baltimore/sync_leaflet.html"
+sav.file <- "/Users/jbjrV/OneDrive/Code for Baltimore/index.html"
 saveWidget(map, file=sav.file, selfcontained = F)
 
 # notebook ----------------------------------------------------------------
